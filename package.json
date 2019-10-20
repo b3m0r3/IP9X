@@ -1,0 +1,22 @@
+{
+  "name": "ip9x",
+  "version": "1.0.0",
+  "description": "----------",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b3m0r3/IP9X.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/b3m0r3/IP9X/issues"
+  },
+  "homepage": "https://github.com/b3m0r3/IP9X#readme",
+  "devDependencies": {
+    "eslint": "^6.5.1"
+  }
+}
