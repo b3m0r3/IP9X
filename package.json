@@ -18,5 +18,8 @@
   "homepage": "https://github.com/b3m0r3/IP9X#readme",
   "devDependencies": {
     "eslint": "^6.5.1"
+  },
+  "dependencies": {
+    "v8-natives": "^1.1.0"
   }
 }
